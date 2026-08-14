@@ -28,8 +28,8 @@ RUN composer install \
     --no-interaction \
     --prefer-dist \
     --optimize-autoloader \
-    --no-progress
-
+    --no-progress \
+    --no-scripts
 
 FROM node:22-alpine AS frontend
 
