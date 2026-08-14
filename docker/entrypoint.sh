@@ -20,6 +20,7 @@ mkdir -p \
 
 chmod -R 777 /app/storage /app/bootstrap/cache /app/database
 
+php artisan package:discover --ansi
 php artisan migrate --force
 php artisan db:seed --force
 php artisan optimize:clear
