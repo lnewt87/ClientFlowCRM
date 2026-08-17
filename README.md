@@ -2,6 +2,13 @@
 
 ClientFlow is a full-stack client and project management application built with Laravel and React. It demonstrates a practical business workflow with authenticated access, relational data, CRUD operations, validation, search/filtering, and dashboard reporting.
 
+## Live Demo
+
+[Launch ClientFlow CRM](https://clientflowcrm-production.up.railway.app/)
+
+<img width="1366" height="633" alt="ScreenShot Tool -20260817175424" src="https://github.com/user-attachments/assets/a39df9da-ad00-4249-b3a1-65649cc8957e" />
+
+
 ## Live application features
 
 - Authenticated management dashboard
