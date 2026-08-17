@@ -6,6 +6,12 @@ ClientFlow is a full-stack client and project management application built with 
 
 [Launch ClientFlow CRM](https://clientflowcrm-production.up.railway.app/)
 
+## Demo access
+
+Username: `demo`
+
+Password: `ClientFlow2026!`
+
 <img width="1366" height="633" alt="ScreenShot Tool -20260817175424" src="https://github.com/user-attachments/assets/a39df9da-ad00-4249-b3a1-65649cc8957e" />
 
 
